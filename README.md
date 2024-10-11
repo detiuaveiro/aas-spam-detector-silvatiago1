@@ -9,7 +9,7 @@ The dataset is different from the toy one used in the class, instead the work wi
 Follow the instructions bellow:
 ```bash
 python3 -m venv venv
-sourve venv/bin/activate
+source venv/bin/activate
 pip install -r requirements.txt
 ```
 
